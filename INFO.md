@@ -46,3 +46,8 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=nJjs3wrji5s&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=12]
 
+## Tutorial - 13 - Route Groups
+
+[https://www.youtube.com/watch?v=auXXk38rGgk&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=13]
+
+
