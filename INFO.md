@@ -42,3 +42,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=fpOinVG85Pk&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=11]
 
+## Tutorial - 12 - Private Folders
+
+[https://www.youtube.com/watch?v=nJjs3wrji5s&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=12]
+
