@@ -38,3 +38,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=GCipVDqBD3k&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=10]
 
+## Tutorial - 11 - File Colocation
+
+[https://www.youtube.com/watch?v=fpOinVG85Pk&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=11]
+
