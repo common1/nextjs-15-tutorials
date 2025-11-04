@@ -34,4 +34,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=d46hLIg1B3Q&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=9]
 
+## Tutorial - 10 - Not Found Page
+
+[https://www.youtube.com/watch?v=GCipVDqBD3k&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=10]
 
