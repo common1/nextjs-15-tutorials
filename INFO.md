@@ -26,3 +26,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=k9g6aVLH3p4&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=7]
 
+## Tutorial - 8 - Nested Dynamic Routes
+
+[https://www.youtube.com/watch?v=edrJf0GKfAI&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=8]
+
