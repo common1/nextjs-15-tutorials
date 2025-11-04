@@ -30,3 +30,8 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=edrJf0GKfAI&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=8]
 
+## Tutorial - 9 - Catch all Segments
+
+[https://www.youtube.com/watch?v=d46hLIg1B3Q&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=9]
+
+
