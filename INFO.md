@@ -54,3 +54,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=NK-8a8EzWrU&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=14]
 
+## Tutorial - 15 - Nested Layouts
+
+[https://www.youtube.com/watch?v=TzF2RKFjRyk&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=15]
+
