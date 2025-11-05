@@ -62,3 +62,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=KZC6TRG3Mks&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=16]
 
+## Tutorial - 17 - Routing Metadata
+
+[https://www.youtube.com/watch?v=OldUurB0Wx8&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=17]
+
