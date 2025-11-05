@@ -58,3 +58,7 @@ npx create-next-app@latest routing-demo
 
 [https://www.youtube.com/watch?v=TzF2RKFjRyk&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=15]
 
+## Tutorial - 16 - Multiple Root Layouts
+
+[https://www.youtube.com/watch?v=KZC6TRG3Mks&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=16]
+
